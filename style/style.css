@@ -846,7 +846,7 @@ nav .up-nav {
  .swiper {
   width: 100%;
   height: 700px;
-  background-image: url('../../Bootstrap/images/Testimonials.jpg');
+  background-image: url('../images/Testimonials.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
